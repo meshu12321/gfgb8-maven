@@ -22,5 +22,10 @@ public class TestClassCalculator {
 		MyCalculator ob = new MyCalculator();
 		assertEquals(50, ob.mul(10, 5));
 	}
+	@Test
+	public void test_div() {
+		MyCalculator ob = new MyCalculator();
+		assertEquals(50, ob.div(10, 5));
+	}
 }
 
