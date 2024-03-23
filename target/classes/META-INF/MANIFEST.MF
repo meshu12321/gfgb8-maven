@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: meshu
+Build-Jdk: 21.0.2
+Main-Class: mypkg.MyCalculator
+Created-By: Maven Integration for Eclipse
+
